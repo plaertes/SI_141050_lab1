@@ -1,0 +1,5 @@
+commit eab474dc8d0ed5528b53486ff245548fb6579cea (HEAD -> logs, origin/master, master)
+Author: Leart Pajaziti <leo-leart@hotmail.com>
+Date:   Thu Apr 4 09:43:09 2019 +0200
+
+    Initial commit
